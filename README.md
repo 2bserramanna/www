@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Benvenuti nella pagina web di Sergio il Re
 
-You can use the [editor on GitHub](https://github.com/2bserramanna/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sergio il re ha 24 anni, nato a Serramanna da mamma messicana e papà haitiano. 
+È alto 2,08 metri ed è il gigante buono della scuola!
 
 ### Markdown
 
