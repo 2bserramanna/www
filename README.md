@@ -1,4 +1,4 @@
-## Benvenuti nella pagina web di Sergio il Re
+## Benvenuti nella pagina web di Sergio the King
 
 Sergio il re ha 24 anni, nato a Serramanna da mamma messicana e papà haitiano. 
 È alto 2,08 metri ed è il gigante buono della scuola!
